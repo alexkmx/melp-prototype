@@ -48,6 +48,7 @@ class App extends Component {
         <div className="image-container">
           <img className="wall" src={wall} alt="ima-wall"/>
         </div>
+        <p><a href="https://github.com/alexkmx/melp-prototype" alt="github"><i className="fa fa-github"></i></a></p>
         <span className="texto">
           <h1>Encuentra los mejores restaurantes en México.</h1>
         </span>
